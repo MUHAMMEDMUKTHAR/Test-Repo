@@ -21,7 +21,7 @@
 #############################################################################
 from odoo import api, fields, models
 from odoo.tools.misc import get_lang
-# test commit
+# test commit for ff merge
 
 class CashFlow(models.Model):
     """Inherits the account.account model to add additional functionality and
